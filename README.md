@@ -1,5 +1,4 @@
-# myapp
-# added files to a new project using git CLI
+#git Command basics
 
 INSTALLING GIT using CLI
 
@@ -42,7 +41,6 @@ $ git commit -m ‘my first app’
 
 // send commit’s to github I.e from local storage to virtual
 $ git remote add origin <copy paste Http url for repository created here>
-$git remote
 $ git push -u origin master
 $ git push
 
